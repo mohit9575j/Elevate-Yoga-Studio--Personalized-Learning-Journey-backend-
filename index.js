@@ -33,10 +33,7 @@ const verifyJWT = (req, res, next) => {
 
 // MONGO DB ROUTES
 
-const uri = `mongodb+srv://joshimohit8130:IeJRngiXW9sKVgkl@cluster0.fvprd2k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
-//const uri = `mongodb+srv://user12:vFu3GZco8tk7id1J@cluster0.oshn8gt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
-
-//const uri - `mongodb+srv://joshimohit8130:IeJRngiXW9sKVgkl@cluster0.fvprd2k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
+ 
 
 
 
